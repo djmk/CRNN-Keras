@@ -30,7 +30,7 @@ I used a slightly modified version of the original CRNN model.
 ![CRNN Network](https://github.com/qjadud1994/CRNN-Keras/blob/master/photo/Network.jpg)
 
 ### Convolutional Layer
-Extracts features through CNN Layer (VGGNet, ResNet ...).
+Extracts features through CNN Layer (VGGNet, ResNet and others).
 
 ### Recurrent Layer
 Splits the features into a certain size and inserts them into the input of the Bidirectional LSTM or GRU.
